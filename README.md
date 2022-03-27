@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HovHayk.
+- 👀 I’m interested in Programing, Web Development, Game creating.
+- 🌱 I’m currently learning Java, C++.
+- 💞️ I’m looking to collaborate on different companies and groups of developers.
+- 📫 How to reach me  hovakimyanhayk15@gmail.com .
